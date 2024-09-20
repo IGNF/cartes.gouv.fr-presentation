@@ -3,7 +3,8 @@
 * Un portail et un back-office (espace connecté) d'alimentation et de diffusion
 * Une entrée cartographique qui deviendra à terme la page d'accueil et remplacera l'actuel [geoportail.gouv.fr](https://geoportail.gouv.fr)
 * Un catalogue public
-* 🔜 Un site statique de documentation (en cours de construction)
+
+⬇️
 
 ------
 
@@ -23,7 +24,7 @@ Code source : [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 
 https://cartes.gouv.fr/cartes/
 
-Single Page App basée développée en [Vue](https://vuejs.org/) et utilisant les [extensions Géoplateforme pour OpenLayers](https://github.com/IGNF/geopf-extensions-openlayers).
+Single Page App développée en [Vue](https://vuejs.org/) et utilisant les [extensions Géoplateforme pour OpenLayers](https://github.com/IGNF/geopf-extensions-openlayers).
 
 Code source : [IGNF/cartes.gouv.fr-entree-carto](https://github.com/IGNF/cartes.gouv.fr-entree-carto)
 
@@ -44,6 +45,8 @@ Code source : [IGNF/geonetwork-ui](https://github.com/IGNF/geonetwork-ui)
 ------
 
 ### Documentation
+
+🔜
 
 https://cartes.gouv.fr/documentation/ (non déployée)
 

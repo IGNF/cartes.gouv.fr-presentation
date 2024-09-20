@@ -32,3 +32,9 @@ Elle propose un formulaire de contact simple qui envoie un email à cette adress
 ![Demande de création d'un espace de travail](images/card-demande-de-creation-espace-de-travail.png)
 
 Cette page est un formulaire de contact dédié pour que le support puisse vous créer une communauté et un entrepôt.
+
+------
+
+![Espace de travail neuf](images/espace-de-travail-vide.png)
+
+Une fois l'accès à un espace de travail obtenu, on peut commencer à déposer des données et les publier !
