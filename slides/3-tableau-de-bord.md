@@ -1,3 +1,11 @@
+Dans la suite on ne parle que de la brique d'alimentation et de diffusion.
+
+Et même uniquement de l'espace connecté.
+
+En faisant le lien avec les concepts de l'API manipulés.
+
+---
+
 ## Le tableau de bord
 
 ![Tableau de bord](images/tableau-de-bord.png)
