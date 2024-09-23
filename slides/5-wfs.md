@@ -78,7 +78,7 @@ Il n'est pas obligatoire de sélectionner toutes les tables
 
 ### Les métadonnées
 
-C'est LE morceau compliqué.
+C'est LE morceau compliqué à remplir.
 
 Presque tout est obligatoire, c'est ce qui va permettre à votre service d'être découvrable sur le catalogue.
 
@@ -102,11 +102,15 @@ Une des options peut-être désactivée si vous avez atteint le quota du endpoin
 
 🚀
 
-La publication elle-même est rapide. C'est la déclaration d'une configuration et d'une offre ainsi que la création et la publication d'une métadonnée.
+La publication elle-même est rapide. C'est la déclaration d'une `configuration` et d'une `offering` ainsi que la création et la publication d'une `metadata`.
 
 ------
 
 ![Fiche de données, onglet services avec un service WFS](images/fiche-de-donnees-service-wfs.png)
+
+Si le service apparait bien *publié*, on peut le visualiser.
+
+(Enfin une 🗺️ !)
 
 ------
 

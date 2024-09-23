@@ -1,8 +1,10 @@
-Dans la suite on ne parle que de la brique d'alimentation et de diffusion.
+## Préambule
+
+Dans la suite on ne parle que de la **brique d'alimentation et de diffusion**.
 
 Et même uniquement de l'espace connecté.
 
-En faisant le lien avec les concepts de l'API manipulés.
+En faisant le lien avec les concepts de l'**API Entrepôt** manipulés.
 
 ---
 

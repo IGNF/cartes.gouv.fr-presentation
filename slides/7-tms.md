@@ -27,7 +27,7 @@ On repart de l'étape ou on a déjà une base de données prête pour la créati
 
 ------
 
-* **étape 4** : des options préconfigurées de généralisation qui vont être plus ou moins adaptés à certains types géométriques mais dont l'efficacité va dépendre également des choix précédents
+* **étape 4** : des options préconfigurées de généralisation qui vont être plus ou moins adaptées à certains types géométriques mais dont l'efficacité va dépendre également des choix précédents
   
   Objectif : qu'il y ait quelque chose à montrer aux petites échelles de pas trop moche et sans que chaque tuile soit trop lourde à charger
 
@@ -55,7 +55,10 @@ La publication reprend les étapes de remplissage des métadonnées (déjà remp
 
 ### Cas de l'échantillon
 
-L'échantillon est publié automatiquement pour que vous puissiez le visualiser et s'il vous convient vous avez un accès direct à la génération de la pyramide complète sur l'ensemble de l'emprise de vos données.
+Il faut publier cet échantillon en public pour que l'interface puisse l'afficher.
+S'il vous convient vous avez un accès direct à la génération de la pyramide complète sur l'ensemble de l'emprise de vos données avec le même paramétrage (cliquer sur la *générer la pyramide complète* dépublie l'échantillon)
+
+🏗️ C'est encore un peu en travaux par là.
 
 ------
 

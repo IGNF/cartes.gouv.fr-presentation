@@ -1,6 +1,6 @@
 ## Publier en WMS
 
-WMS dit "vecteur", c'est-à-dire généré à la volée
+WMS dit *vecteur*, c'est-à-dire généré à la volée
 
 ------
 
