@@ -140,6 +140,6 @@ Vous trouverez aussi une annexe technique `styles.json` qui relie les couches et
 
 Pas de visualisation possible car il faut s'être attribué une **permission** puis avoir configuré une **clé d'accès** qui exploite cette permission.
 
-La publication créé une permission pour votre communauté, ce qui facilite la procédure. Mais elle ne créé pas ou ne modifie pas de clé.
+La publication créé une permission pour votre communauté, ce qui facilite la procédure. Mais elle ne créé pas ou ne modifie pas de clé. Il vous reste cette étape à faire pour pouvoir ensuite visualiser le service dans un SIG par exemple.
 
 La métadonnée sera publique et visible sur le catalogue même si les flux eux-même sont privés.

@@ -81,4 +81,31 @@ Lorsque l'objet porte un nom de fiche de données, mieux vaut passer par les int
 
 ### Permissions accordées
 
-🏗️
+![Menu Permissions accordées](images/menu-permissions-accordees.png)
+
+------
+
+### Liste des permissions
+
+Parmi les permissions de l'espace de travail il y a déjà les permissions créées automatiquement pour votre propre communauté à chaque publication d'un flux privé.
+
+Vous pouvez les modifier ou les supprimer si elles ne vous conviennent pas. Elles ne servent à rien si aucune clé ne les utilise.
+
+------
+
+### Ajouter une permission
+
+* un nom ou licence (visible par vous et les bénéficiaires)
+* des bénéficiaires (plusieurs bénéficiaires => plusieurs permissions mais un seul formulaire de création)
+* une date d'expiration (par défaut date du jour + 2 ans)
+* le ou les service(s) concerné(s)
+* si des clés oauth2 (authentification forte) sont obligatoires pour l'utiliser
+
+------
+
+NB : comme pour la gestion des membres de la communauté, on ne peut pas lister d'utilisateurs ici. Pour donner une permission personnelle, il vous faut connaitre l'identifiant du compte personnel.
+
+On liste par contre les communautés dont vous avez connaissance :
+
+* celles dont vous êtes membre
+* celles qui sont listées dans le catalogue des communautés publiques
