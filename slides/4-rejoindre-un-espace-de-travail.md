@@ -9,7 +9,7 @@ Un espace de travail = une communauté + un entrepôt
 
 ![Rejoindre un espace de travail existant](images/card-rejoindre-un-espace-de-travail.png)
 
-Cette page liste les communautés publiques qui ont une adresse email de contact qui ressemble à un email.
+Cette page liste les communautés publiques qui ont une adresse email de contact.
 
 ------
 
@@ -21,7 +21,9 @@ GET /catalog/communities
 
 ------
 
-Elle propose un formulaire de contact simple qui envoie un email à cette adresse de contact. Ce mail contient notamment vos informations, dont votre identifiant technique car il est nécessaire pour vous ajouter comme membre.
+Elle propose, pour chaque communauté, un formulaire de contact simple qui envoie un email à son adresse de contact.
+
+Ce mail contient notamment vos informations, dont votre identifiant technique car il est nécessaire pour vous ajouter comme membre.
 
 ⚠️ cartes.gouv.fr ne conserve pas la trace des demandes. C'est entre vous et le responsable de la communauté concernée.
 

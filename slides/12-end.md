@@ -9,6 +9,8 @@ En ce moment il y a 2 enquêtes en cours :
 * sur le tableau de bord
   => pour mieux connaitre votre utilisation des outils d'alimentation et de diffusion
 
+![Bandeau d'enquête sur le tableau de bord](images/bandeau-enquete-tableau-de-bord.png)
+
 ------
 
 Et aussi :

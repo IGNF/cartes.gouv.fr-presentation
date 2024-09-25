@@ -20,6 +20,6 @@
 
 ------
 
-* On peut aller jusqu'à la publication des flux et des métadonnées et obtenir des URLs fonctionnelles
-* On ne peut pas accéder à la liste des membres (pas de droit **COMMUNITY** par défaut)
+* On peut aller jusqu'à la publication des flux et des métadonnées et obtenir des URLs fonctionnelles 🌍
+* On ne peut pas accéder à la liste des membres (pas de droit **COMMUNITY** par défaut) ⛔
 * Les métadonnées ne sont accessibles que via le service CSW et ne sont pas référencées dans le catalogue

@@ -21,7 +21,7 @@ Précisions sur le dépôt du fichier
 
 ------
 
-Dépôt en cours en avec 4 étapes successives côté API :
+Dépôt en cours en 4 étapes successives côté API :
 
 * Nouvel `upload`
 * Vérifications standard (lancées automatiquement)
@@ -51,8 +51,8 @@ De là vous pouvez **Créer un service**
 ------
 
 Certaines options peuvent être désactivées ⁉️
-* si le quota pour ce type de service est atteint sur les 2 endpoints (public et accès restreint)
-* si le quota sur le endpoint pour les métadonnées est atteint
+* si le *quota* pour ce type de service est atteint sur les 2 *endpoints* (public et accès restreint)
+* si le *quota* sur le *endpoint* pour les métadonnées est atteint
 
 ------
 
@@ -122,7 +122,7 @@ Si le service apparait bien *publié*, on peut le visualiser.
 
 ### Ajouter des styles (facultatif)
 
-Pas d'interface graphique avancée, il faut préparer des fichiers sld ou qml
+Pas d'interface graphique avancée à ce jour, il faut préparer des fichiers sld ou qml
 
 ![Ajout d'un style pour WFS](images/ajout-style-wfs.png)
 
@@ -134,7 +134,7 @@ Et vérifier le rendu sur la visualisation
 
 ------
 
-Les fichiers sont enregistrés en tant qu'**annexes** et la métadonnée est modifiée pour y faire référence.
+Les fichiers de style sont enregistrés en tant qu'**annexes** et la métadonnée est modifiée pour y faire référence.
 
 Vous trouverez aussi une annexe technique `styles.json` qui relie les couches et les styles individuels et permet l'affichage de cette visualisation.
 

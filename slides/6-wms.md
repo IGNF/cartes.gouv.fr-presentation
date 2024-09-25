@@ -36,7 +36,7 @@ Pareil que pour le WMS, il faut un nom pour le service (ne gardez pas celui par 
 
 ![Fiche de données, onglet services avec un service WFS et un service WMS](images/fiche-de-donnees-service-wfs-et-wms.png)
 
-On a une nouvelle configuration, une nouvelle offre et une métadonnée actualisée avec une 2<sup>ème</sup> URL de service.
+On a une nouvelle *configuration*, une nouvelle *offre* et une *métadonnée* actualisée avec une 2<sup>ème</sup> URL de service.
 
 ------
 

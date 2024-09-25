@@ -52,16 +52,16 @@ On retrouve la matrice des droits de l'API
 
 ------
 
-* Seule interface où toutes les données sont visibles, notamment les téléversements ainsi que les données ou configurations qui ne sont pas liées à une fiche de données (pas de tag).
-* La seule action possible est de supprimer (ou dépublier selon le cas) un objet
-
-------
-
 ![Suivi des consommations Données Déposées](images/consommation-donnees-deposees.png)
 
 ------
 
 ![Suivi des consommations Données Déposées](images/consommation-endpoint.png)
+
+------
+
+* Seule interface où toutes les données sont visibles, notamment les téléversements ainsi que les données ou configurations qui ne sont pas liées à une fiche de données (pas de tag).
+* La seule action possible est de supprimer (ou dépublier selon le cas) un objet
 
 ------
 

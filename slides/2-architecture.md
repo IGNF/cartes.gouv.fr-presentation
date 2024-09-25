@@ -1,8 +1,8 @@
 ## Plusieurs briques
 
-* Un portail et un back-office (espace connecté) d'alimentation et de diffusion
-* Une entrée cartographique qui deviendra à terme la page d'accueil et remplacera l'actuel [geoportail.gouv.fr](https://geoportail.gouv.fr)
-* Un catalogue public
+* Un portail (page d'accueil et pages éditoriales) et un back-office (espace connecté) d'**alimentation et de diffusion**
+* Une **entrée cartographique** qui remplacera à terme l'actuel [geoportail.gouv.fr](https://geoportail.gouv.fr)
+* Un **catalogue** public de données et de services
 
 ⬇️
 
@@ -20,7 +20,7 @@ Code source : [IGNF/cartes.gouv.fr](https://github.com/IGNF/cartes.gouv.fr)
 
 ------
 
-### Entrée carto
+### Entrée cartographique
 
 https://cartes.gouv.fr/cartes/
 
@@ -32,7 +32,7 @@ Code source : [IGNF/cartes.gouv.fr-entree-carto](https://github.com/IGNF/cartes.
 
 ------
 
-### Catalogue
+### Catalogue de données et de services
 
 https://cartes.gouv.fr/catalogue/
 
@@ -48,7 +48,7 @@ Code source : [IGNF/geonetwork-ui](https://github.com/IGNF/geonetwork-ui)
 
 🔜
 
-https://cartes.gouv.fr/documentation/ (non déployée)
+https://cartes.gouv.fr/documentation/ (en construction)
 
 Site statique généré à partir de contenus en markdown avec [eleventy](https://www.11ty.dev/) et des gabarits basés sur [eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr).
 
