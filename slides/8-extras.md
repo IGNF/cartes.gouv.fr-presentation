@@ -54,7 +54,7 @@ Vous pouvez ajouter des documents de tous types à vos métadonnées : tutoriels
 
 Si le document est déjà disponible sur internet :
 
-![Ajouter un document URL externe, il faut donner un nom, une description, l'url et optionnellement une description](Images/ajouter-un-document-lien.png)
+![Ajouter un document URL externe, il faut donner un nom, une description, l'url et optionnellement une description](images/ajouter-un-document-lien.png)
 
 ------
 
@@ -80,7 +80,7 @@ Comme pour la vignette, c'est un ajout dans les métadonnées :
 
 Si le document n'a pas d'URL publiquement accessible, alors on peut le téléverser
 
-![Ajouter un document fichier](Images/ajouter-un-document-fichier.png)
+![Ajouter un document fichier](images/ajouter-un-document-fichier.png)
 
 ------
 
